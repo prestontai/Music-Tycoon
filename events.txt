@@ -1,0 +1,32 @@
+Interview / Show
+	Requirements: Artist is at least 10 weeks old
+			Trash: Debut a song at < 25 popularity
+			Hermit: Sign an artist with < 30 social media
+		- 15 energy
+		+ artist_pop, + aritst_social_media
+
+Music Video
+	Requirements: Artist is at least 20 weeks old
+		has 60 popularity
+		has unlocked the following:
+			Shiny I: Have a song be certified Gold
+			Scrooge: Sign an artist taking 22% cut
+			Go Big or Go Home: Sign an artist with 65 creativity
+	Show discog, choose 1 song
+	+ artist_social_media, + song_pop
+	- 25 energy ( 3.5 weeks of work )
+
+Tour
+	Requirements: Artist is at least 30 weeks old
+		has earned you 400,000
+		has 85 social media
+		has unlocked the following
+			Straight: Sign 5 artists of different genres
+			Shiny II: Have a song be certified Platinum
+			Bound 2: Produce a music video
+	Show discog, choose 5 songs
+	+ song_pop, + art_pop
+	- 80 energy ( ~11 weeks of work )
+
+
+	
